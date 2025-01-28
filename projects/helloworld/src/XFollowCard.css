@@ -64,6 +64,10 @@
     transition: background-color 0.3s;
   }
 
+  .follow-btn.is-following {
+    background-color: #75c01f;
+  }
+
   .follow-btn:hover {
     background-color: #0d8bd7;
   }
